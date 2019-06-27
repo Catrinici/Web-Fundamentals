@@ -1,0 +1,51 @@
+.main {
+    background-color: #d5d2ae;
+    width: 710px;
+    height: 640px;
+}
+
+.header {
+    display: inline-table;
+}
+
+img {
+    height: 80px;
+    margin: 5px;
+    background: white;
+}
+
+.wrapper {
+    margin-left: 30px;
+}
+
+.wrapper img {
+    display: block;
+    width: 80px;
+    background: #82b4ee
+}
+
+div {
+    display: inline-block;
+}
+
+#blue img {
+    border: 3px solid black;
+    padding: 15px;
+}
+
+#pink img {
+    background: #f36870;
+    padding: 15px;
+    border: 3px solid black;
+}
+
+#nav-menu {
+    list-style-type: none;
+    margin-left: 65px;
+}
+
+#nav-menu li {
+    display: inline;
+    font-weight: bold;
+    font-size: 30px;
+}
