@@ -1,0 +1,22 @@
+    * {
+        background-color: bisque;
+    }
+    
+    img {
+        width: 150px;
+        height: 150px;
+        float: left;
+        margin: 5px;
+        border: 4px solid white;
+        box-shadow: 5px 5px 2px grey;
+    }
+    
+    div {
+        margin-top: 10px;
+        width: -webkit-fill-available;
+    }
+    
+    .btn {
+        padding: 12px;
+        display: inline-block;
+    }

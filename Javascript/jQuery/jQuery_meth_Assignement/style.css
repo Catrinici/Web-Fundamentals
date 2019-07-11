@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+body {
+    width: 70%;
+}
+
+div {
+    border-top: 2px solid black;
+    margin-left: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input,
+p {
+    display: inline-block;
+}
+
+p {
+    margin-left: 20px;
+}
+
+.red {
+    background-color: red;
+}
+
+#slidetgl,
+#sdbook {
+    display: none;
+}
+
+img {
+    width: 200px;
+}
+
+#one,
+#two,
+#three {
+    margin: 3px;
+    width: 80px;
+    display: none;
+    height: 80px;
+}
+
+#one {
+    background: #f00;
+}
+
+#two {
+    background: #0f0;
+}
+
+#three {
+    background: #00f;
+}
+
+;
